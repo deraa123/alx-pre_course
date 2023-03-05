@@ -1,4 +1,4 @@
-My first readme is splendid wow
+My first readme is splendid mom
 
 
 
