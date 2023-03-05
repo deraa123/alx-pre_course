@@ -1,3 +1,3 @@
-My first readme is splendid and nice
+My first readme is splendid 
 
 
